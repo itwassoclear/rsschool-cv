@@ -1,16 +1,18 @@
 # rsschool-cv
 
 ## Kotliarova Maria
+
 itwassoclear@gmail.com
 
 ## WORK EXPERIENCE
 
 Practicum by Yandex (student)
+
 - Implemented UI using HTML5, CSS3, Vanilla Javascript, GIT, Webpack.
 
 Crazy Panda (junior JS developer)
-- Development of internal projects. Using HTML5, CSS3, LESS, React, Webpack.
 
+- Development of internal projects. Using HTML5, CSS3, LESS, React, Webpack.
 
 Good at adaptive layout, can work with React and Vue.
 
@@ -32,26 +34,17 @@ A user blog to upload favorite places with images and names to save the best lif
 
 - Used technologies: HTML5, CSS, Vanilla JavaScript, REST, Git.
 
-
-
-
 #### Project "Travel in Russia"
 
 https://github.com/itwassoclear/travel-in-Russia
 
 A traveling guide leading the user to explore Russia.
 
-
-
-
 #### Project "Learning How to Learn"
 
 https://github.com/itwassoclear/learn-to-learn
 
 An educational landing page with multiple sections about various methods to obtain new skills. Brought mockups to life with the final result of a responsive web page and CSS animation.
-
-
-
 
 English: B1
 

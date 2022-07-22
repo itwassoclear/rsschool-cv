@@ -1,0 +1,43 @@
+.main {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.contacts {
+  display: flex;
+  justify-content: space-between;
+}
+
+.contacts__info {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.contacts__name {
+  margin: 50px 0 0;
+}
+
+.contacts__email {
+  margin: 10px 0 0;
+  font-weight: normal;
+}
+
+.contacts__photo {
+  width: 150px;
+  height: 150px;
+}
+
+.text__title {
+  margin: 10px 0 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.text__paragraph {
+  margin: 10px 0 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.text__link {
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
